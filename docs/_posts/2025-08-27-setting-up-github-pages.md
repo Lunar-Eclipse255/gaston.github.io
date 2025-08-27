@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-right-sidebar
 title:  "Setting Up Jekyll with GitHub Pages"
 date:   2025-08-27 11:00:00 -0400
 categories: jekyll github-pages tutorial

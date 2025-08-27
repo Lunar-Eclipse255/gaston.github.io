@@ -1,5 +1,5 @@
 ---
-layout: page-with-sidebar
+layout: right-sidebar
 title: API Reference
 permalink: /api-reference/
 ---
