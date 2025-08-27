@@ -1,0 +1,12 @@
+title: Your Site Title
+description: Your site description
+baseurl: "/docs" # since you're in a docs folder
+url: "https://gaston.github.io"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
