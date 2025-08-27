@@ -3,8 +3,8 @@ description: Welcome to my personal website built with Jekyll and hosted on GitH
 baseurl: "" # Leave empty for GitHub Pages unless using a project site
 url: "https://gagrehansavona.github.io" # Replace with your actual GitHub username
 
-# Theme
-theme: minima
+# Theme - explicitly specify minima for GitHub Pages
+remote_theme: jekyll/minima
 
 plugins:
   - jekyll-feed
