@@ -1,12 +1,27 @@
-title: Your Site Title
-description: Your site description
-baseurl: "/docs" # since you're in a docs folder
-url: "https://gaston.github.io"
+title: Gaston's GitHub Pages Site
+description: Welcome to my personal website built with Jekyll and hosted on GitHub Pages
+baseurl: "" # Leave empty for GitHub Pages unless using a project site
+url: "https://gagrehansavona.github.io" # Replace with your actual GitHub username
+
+# Theme
+theme: minima
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
+permalink: pretty
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
