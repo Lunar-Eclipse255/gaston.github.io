@@ -1,6 +1,6 @@
 ---
-layout: home
-title: Welcome to My Site
+layout: page-with-sidebar
+title: Documentation Home
 ---
 
 # Welcome to Gaston's Website
