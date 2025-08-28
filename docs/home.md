@@ -1,4 +1,5 @@
 ---
+id: home
 layout: default
 title: Documentation Home
 ---
@@ -24,8 +25,6 @@ This site is built using:
 
 Feel free to connect with me:
 - **GitHub:** [Lunar-Eclipse255](https://github.com/Lunar-Eclipse255)
-- **Email:** your.email@example.com
+- **Email:** neptunesaturn255@gmail.com
 
 ---
-
-*This site is powered by Jekyll and hosted on GitHub Pages.*

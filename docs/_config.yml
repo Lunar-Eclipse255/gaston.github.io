@@ -17,7 +17,8 @@ markdown: kramdown
 highlighter: rouge
 
 sidebar:
-  - getting-started
+  - home
+  - about-me
 
 
 # Exclude from processing
