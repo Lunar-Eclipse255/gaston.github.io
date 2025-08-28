@@ -16,6 +16,10 @@ plugins:
 markdown: kramdown
 highlighter: rouge
 
+sidebar:
+  - getting-started
+
+
 # Exclude from processing
 exclude:
   - Gemfile
