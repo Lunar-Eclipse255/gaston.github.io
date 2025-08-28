@@ -5,15 +5,24 @@ baseurl: ""
 repository: Lunar-Eclipse255/gaston.github.io
 
 # Theme
-remote_theme: mmistakes/minimal-mistakes
-
-# Theme configuration
-minimal_mistakes_skin: "dark"
+remote_theme: pages-themes/cayman
 
 # Plugins
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+
+# Garden-style sidebar navigation
+sidebar:
+  - home
+  - about
+  - label: Tutorials
+    children:
+      - getting-started
+      - configuration
+  - label: Reference
+    children:
+      - api-reference
 
 # Build settings
 markdown: kramdown
