@@ -7,6 +7,9 @@ repository: Lunar-Eclipse255/gaston.github.io
 # Theme
 remote_theme: zendesk/jekyll-theme-zendesk-garden
 
+# Theme configuration
+color_scheme: dark
+
 # Plugins
 plugins:
   - jekyll-feed
