@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Welcome to My New Website!"
-date: 2025-08-28 12:00:00 -0000
 categories: [welcome, jekyll]
 ---
 
