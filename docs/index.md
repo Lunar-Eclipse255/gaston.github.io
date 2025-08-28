@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Documentation Home
+id: home
 ---
 
 # Welcome to Gaston's Website! 🎉
