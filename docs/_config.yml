@@ -5,7 +5,10 @@ baseurl: ""
 repository: Lunar-Eclipse255/gaston.github.io
 
 # Theme
-remote_theme: pages-themes/cayman
+remote_theme: mmistakes/minimal-mistakes
+
+# Theme configuration
+minimal_mistakes_skin: "dark"
 
 # Plugins
 plugins:
