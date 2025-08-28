@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Documentation Home
+layout: home
+title: Welcome
 ---
 
 # Welcome to Gaston's Website! 🎉
