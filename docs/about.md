@@ -1,8 +1,7 @@
 ---
-layout: right-sidebar
+layout: page
 title: About
-description: "Learn more about Gaston and this website"
-permalink: /content/about/
+permalink: /about/
 ---
 
 # About Me
@@ -20,9 +19,9 @@ This site is built with Jekyll and hosted on GitHub Pages. It's a great example 
 ### Technical Details
 
 - **Built with**: Jekyll static site generator
-- **Theme**: Minima (customized)
+- **Theme**: Minima
 - **Hosted on**: GitHub Pages
-- **Source code**: Available on [GitHub](https://github.com/gagrehansavona/gaston.github.io)
+- **Source code**: Available on [GitHub](https://github.com/Lunar-Eclipse255/gaston.github.io)
 
 ## Get In Touch
 

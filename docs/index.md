@@ -1,9 +1,9 @@
 ---
-layout: default
-title: Welcome to Gaston's Website
+layout: home
+title: Welcome
 ---
 
-# Welcome to Gaston's Website
+# Welcome to Gaston's Website! 🎉
 
 Hello! This is my personal website built with Jekyll and hosted on GitHub Pages.
 
@@ -20,15 +20,11 @@ This site is built using:
 - Information about my work and experience
 - Resources and tutorials I've found useful
 
-## Recent Posts
-
-Check out my latest blog posts below, or visit the [blog archive](/blog/) to see all posts.
-
 ## Get In Touch
 
 Feel free to connect with me:
-- GitHub: [Your GitHub Profile](https://github.com/gagrehansavona)
-- Email: your.email@example.com
+- **GitHub:** [Lunar-Eclipse255](https://github.com/Lunar-Eclipse255)
+- **Email:** your.email@example.com
 
 ---
 

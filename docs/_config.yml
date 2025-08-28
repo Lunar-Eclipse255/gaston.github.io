@@ -1,11 +1,12 @@
-title: Gaston's GitHub Pages Site
-description: Welcome to my personal website built with Jekyll and hosted on GitHub Pages
-baseurl: "" # No subpath for user site
-url: "https://lunar-eclipse255.github.io" # GitHub user site root
+title: Gaston's Website
+description: My personal website built with Jekyll and GitHub Pages
+url: "https://lunar-eclipse255.github.io"
+baseurl: ""
 
-# Use GitHub Pages compatible theme
+# Theme
 remote_theme: jekyll/minima
 
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -13,34 +14,9 @@ plugins:
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: pretty
-
-# Collections for organized content
-collections:
-  guides:
-    output: true
-    permalink: /content/guides/:name/
-  tutorials:
-    output: true
-    permalink: /content/tutorials/:name/
-  reference:
-    output: true
-    permalink: /content/reference/:name/
-
-# Default settings for different content types
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default
 
 # Exclude from processing
 exclude:
   - Gemfile
   - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - _templates/
+  - vendor/
