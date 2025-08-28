@@ -1,7 +1,7 @@
 title: Gaston's GitHub Pages Site
 description: Welcome to my personal website built with Jekyll and hosted on GitHub Pages
-baseurl: "" # Leave empty for GitHub Pages unless using a project site
-url: "https://gagrehansavona.github.io" # Replace with your actual GitHub username
+baseurl: "/gaston.github.io" # Project site subpath
+url: "https://lunar-eclipse255.github.io" # GitHub user site root
 
 # Theme - explicitly specify minima for GitHub Pages
 remote_theme: jekyll/minima
