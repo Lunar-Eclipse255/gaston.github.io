@@ -1,6 +1,6 @@
 ---
-layout: home
-title: Welcome
+layout: sidebar
+title: Documentation Home
 ---
 
 # Welcome to Gaston's Website! 🎉

@@ -1,0 +1,19 @@
+main:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Tutorials"
+    children:
+      - title: "Getting Started"
+        url: "/tutorials/getting-started/"
+      - title: "Configuration"
+        url: "/tutorials/configuration/"
+      - title: "Advanced Topics"
+        url: "/tutorials/advanced/"
+  - title: "Reference"
+    children:
+      - title: "API Reference"
+        url: "/reference/api/"
+      - title: "CLI Commands"
+        url: "/reference/cli/"
