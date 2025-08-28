@@ -1,5 +1,4 @@
 ---
-id: home
 layout: default
 title: Documentation Home
 ---

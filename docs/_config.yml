@@ -17,7 +17,6 @@ markdown: kramdown
 highlighter: rouge
 
 sidebar:
-  - home
   - about-me
 
 
