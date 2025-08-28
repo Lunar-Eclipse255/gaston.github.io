@@ -5,27 +5,15 @@ baseurl: ""
 repository: Lunar-Eclipse255/gaston.github.io
 
 # Theme
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: zendesk/jekyll-theme-zendesk-garden
 
 # Theme configuration
-minimal_mistakes_skin: "dark"
+color_scheme: dark
 
 # Plugins
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-
-# Garden-style sidebar navigation
-sidebar:
-  - home
-  - about
-  - label: Tutorials
-    children:
-      - getting-started
-      - configuration
-  - label: Reference
-    children:
-      - api-reference
 
 # Build settings
 markdown: kramdown
