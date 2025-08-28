@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Documentation Home
+title: Home
 nav_order: 1
-description: "Welcome to the documentation for this site"
+description: "Welcome to Gaston's Website"
 permalink: /
 ---
 
