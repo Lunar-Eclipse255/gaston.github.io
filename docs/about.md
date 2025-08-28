@@ -1,7 +1,6 @@
 ---
-layout: sidebar
+layout: default
 title: About
-description: Learn more about this site and its creator
 permalink: /about/
 ---
 

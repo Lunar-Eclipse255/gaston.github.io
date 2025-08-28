@@ -1,7 +1,6 @@
 ---
-layout: sidebar
+layout: default
 title: Documentation Home
-description: Welcome to the documentation for this site. This contains everything you need to get started.
 ---
 
 # Welcome to Gaston's Website! 🎉
