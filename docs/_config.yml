@@ -1,9 +1,9 @@
 title: Gaston's GitHub Pages Site
 description: Welcome to my personal website built with Jekyll and hosted on GitHub Pages
-baseurl: "/gaston.github.io" # Project site subpath
+baseurl: "" # No subpath for user site
 url: "https://lunar-eclipse255.github.io" # GitHub user site root
 
-# Theme - explicitly specify minima for GitHub Pages
+# Use GitHub Pages compatible theme
 remote_theme: jekyll/minima
 
 plugins:
@@ -32,31 +32,7 @@ defaults:
   - scope:
       path: ""
     values:
-      layout: right-sidebar
-  - scope:
-      path: "content/guides"
-      type: "pages"
-    values:
-      layout: right-sidebar
-      category: guide
-  - scope:
-      path: "content/tutorials"
-      type: "pages"
-    values:
-      layout: right-sidebar
-      category: tutorial
-  - scope:
-      path: "content/reference"
-      type: "pages"
-    values:
-      layout: right-sidebar
-      category: reference
-  - scope:
-      path: "content/blog"
-      type: "pages"
-    values:
-      layout: right-sidebar
-      category: blog
+      layout: default
 
 # Exclude from processing
 exclude:

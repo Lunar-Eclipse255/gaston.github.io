@@ -1,6 +1,6 @@
 ---
-layout: right-sidebar
-title: Documentation Home
+layout: default
+title: Welcome to Gaston's Website
 ---
 
 # Welcome to Gaston's Website
