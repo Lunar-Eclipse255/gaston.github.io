@@ -1,6 +1,8 @@
 ---
-layout: sidebar
+layout: default
 title: About
+nav_order: 2
+description: "Learn more about this site and its creator"
 permalink: /about/
 ---
 

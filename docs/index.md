@@ -1,6 +1,9 @@
 ---
-layout: sidebar
+layout: default
 title: Documentation Home
+nav_order: 1
+description: "Welcome to the documentation for this site"
+permalink: /
 ---
 
 # Welcome to Gaston's Website! 🎉

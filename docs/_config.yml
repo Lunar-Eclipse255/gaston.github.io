@@ -4,12 +4,20 @@ url: "https://lunar-eclipse255.github.io/gaston.github.io/"
 baseurl: ""
 
 # Theme
-remote_theme: jekyll/minima
+remote_theme: just-the-docs/just-the-docs
 
 # Plugins
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+
+# Just the Docs theme configuration
+color_scheme: dark
+search_enabled: true
+heading_anchors: true
+
+# Navigation structure
+nav_sort: case_insensitive
 
 # Build settings
 markdown: kramdown
