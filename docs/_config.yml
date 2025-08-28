@@ -1,5 +1,4 @@
 title: Gaston's Website
-description: My personal website built with Jekyll and GitHub Pages
 baseurl: ""       # your repo name
 url: "https://lunar-eclipse255.github.io/gaston.github.io/"  # your GitHub Pages URL
 repository: Lunar-Eclipse255/gaston.github.io
