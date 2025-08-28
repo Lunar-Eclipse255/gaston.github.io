@@ -4,7 +4,7 @@ url: "https://lunar-eclipse255.github.io/gaston.github.io/"
 baseurl: ""
 
 # Theme
-remote_theme: jekyll/minima
+remote_theme: zendesk/jekyll-theme-zendesk-garden
 
 # Plugins
 plugins:
