@@ -1,9 +1,7 @@
 ---
 layout: default
 title: Tutorials
-nav_order: 3
-has_children: true
-description: "Step-by-step tutorials and guides"
+permalink: /tutorials/
 ---
 
 # Tutorials

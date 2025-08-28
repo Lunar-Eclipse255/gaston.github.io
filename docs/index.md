@@ -1,9 +1,6 @@
 ---
 layout: default
-title: Home
-nav_order: 1
-description: "Welcome to Gaston's Website"
-permalink: /
+title: Documentation Home
 ---
 
 # Welcome to Gaston's Website! 🎉

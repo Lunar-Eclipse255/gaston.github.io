@@ -1,9 +1,7 @@
 ---
 layout: default
 title: Getting Started
-parent: Tutorials
-nav_order: 1
-description: "Learn the basics and get up and running quickly"
+permalink: /tutorials/getting-started/
 ---
 
 # Getting Started
