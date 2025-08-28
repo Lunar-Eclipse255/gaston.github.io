@@ -1,0 +1,292 @@
+---
+---
+
+/* Base styles for GitHub Pages compatibility */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.site-header {
+  border-bottom: 1px solid #e8e8e8;
+  padding: 1rem 0;
+  background-color: #fff;
+}
+
+.site-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #333;
+  text-decoration: none;
+}
+
+.site-nav {
+  float: right;
+  line-height: 54px;
+}
+
+.site-nav a {
+  color: #333;
+  text-decoration: none;
+  margin-left: 1rem;
+}
+
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.page-content {
+  padding: 2rem 0;
+}
+
+.post-title, .page-heading {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.post-content h1, .post-content h2, .post-content h3 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.post-content h1 { font-size: 1.8rem; }
+.post-content h2 { font-size: 1.5rem; }
+.post-content h3 { font-size: 1.3rem; }
+
+/* Right Sidebar Styles */
+.page-content-with-sidebar {
+  display: flex !important;
+  max-width: 1200px;
+  margin: 0 auto;
+  gap: 2rem;
+  padding: 2rem 1rem;
+  align-items: flex-start;
+}
+
+.post-content {
+  flex: 1;
+  min-width: 0; /* Prevents flex item from overflowing */
+  margin-right: 2rem;
+}
+
+.right-sidebar {
+  width: 280px !important;
+  flex-shrink: 0 !important;
+  background-color: #f8f9fa !important;
+  border: 1px solid #e9ecef !important;
+  border-radius: 8px !important;
+  padding: 1.5rem !important;
+  height: fit-content !important;
+  position: sticky !important;
+  top: 2rem !important;
+  float: none !important;
+  clear: none !important;
+}
+
+.sidebar-nav {
+  width: 100% !important;
+}
+
+.sidebar-nav h3 {
+  margin-top: 0 !important;
+  margin-bottom: 1.5rem !important;
+  color: #333 !important;
+  font-size: 1.2rem !important;
+  font-weight: 600 !important;
+  display: block !important;
+}
+
+.nav-section {
+  margin-bottom: 2rem !important;
+  display: block !important;
+  width: 100% !important;
+}
+
+.nav-section h4 {
+  color: #666 !important;
+  font-size: 0.85rem !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
+  margin-bottom: 0.75rem !important;
+  margin-top: 0 !important;
+  display: block !important;
+}
+
+.nav-section ul {
+  list-style: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  display: block !important;
+  width: 100% !important;
+}
+
+.nav-section li {
+  margin-bottom: 0.5rem !important;
+  position: relative !important;
+  display: block !important;
+  width: 100% !important;
+}
+
+.nav-section a {
+  display: block !important;
+  padding: 0.5rem 0.75rem !important;
+  color: #555 !important;
+  text-decoration: none !important;
+  border-radius: 4px !important;
+  font-size: 0.9rem !important;
+  transition: all 0.2s ease !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* Dropdown Styles */
+.dropdown-toggle {
+  position: absolute;
+  right: 0.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.25rem;
+  color: #666;
+  font-size: 0.8rem;
+}
+
+.dropdown-toggle:hover {
+  color: #333;
+}
+
+.dropdown-menu {
+  display: none;
+  list-style: none;
+  margin: 0.5rem 0 0 1rem;
+  padding: 0;
+  border-left: 2px solid #e9ecef;
+}
+
+.dropdown-menu li {
+  margin-bottom: 0.25rem;
+}
+
+.dropdown-menu a {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.85rem;
+  color: #666;
+}
+
+.dropdown-menu a:hover {
+  background-color: #f1f3f4;
+  color: #333;
+}
+
+.dropdown-menu a.active {
+  background-color: #007bff;
+  color: white;
+}
+
+.nav-section a:hover {
+  background-color: #e9ecef;
+  color: #333;
+}
+
+.nav-section a.active {
+  background-color: #007bff;
+  color: white;
+}
+
+.nav-section a.active:hover {
+  background-color: #0056b3;
+}
+
+/* Override theme conflicts */
+.site-nav {
+  display: block !important;
+  float: none !important;
+}
+
+/* Hide RSS feed icon if it appears */
+.rss-subscribe {
+  display: none !important;
+}
+
+/* Hide any large icons or feed icons */
+svg[width="16"][height="16"] {
+  display: none !important;
+}
+
+/* Hide large RSS/feed icons */
+.site-footer svg {
+  display: none !important;
+}
+
+/* Hide subscribe text */
+p:contains("Subscribe") {
+  display: none !important;
+}
+
+/* Force hide any feed-related content */
+*[class*="feed"], *[class*="rss"], *[class*="subscribe"] {
+  display: none !important;
+}
+
+/* Ensure main content area doesn't have conflicting styles */
+.page-content {
+  padding: 0 !important;
+}
+
+.wrapper {
+  max-width: none !important;
+  padding: 0 !important;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .page-content-with-sidebar {
+    flex-direction: column !important;
+    padding: 1rem !important;
+  }
+
+  .right-sidebar {
+    width: 100% !important;
+    position: static !important;
+    order: -1 !important; /* Move sidebar above content on mobile */
+    margin-right: 0 !important;
+  }
+
+  .post-content {
+    margin-right: 0 !important;
+  }
+}
+
+/* Dark theme support */
+@media (prefers-color-scheme: dark) {
+  .right-sidebar {
+    background-color: #2d3748;
+    border-color: #4a5568;
+  }
+  
+  .sidebar-nav h3 {
+    color: #e2e8f0;
+  }
+  
+  .nav-section h4 {
+    color: #a0aec0;
+  }
+  
+  .nav-section a {
+    color: #cbd5e0;
+  }
+  
+  .nav-section a:hover {
+    background-color: #4a5568;
+    color: #e2e8f0;
+  }
+}
