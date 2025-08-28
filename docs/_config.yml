@@ -15,11 +15,48 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 
+# Collections for organized content
+collections:
+  guides:
+    output: true
+    permalink: /content/guides/:name/
+  tutorials:
+    output: true
+    permalink: /content/tutorials/:name/
+  reference:
+    output: true
+    permalink: /content/reference/:name/
+
+# Default settings for different content types
 defaults:
   - scope:
       path: ""
     values:
       layout: right-sidebar
+  - scope:
+      path: "content/guides"
+      type: "pages"
+    values:
+      layout: right-sidebar
+      category: guide
+  - scope:
+      path: "content/tutorials"
+      type: "pages"
+    values:
+      layout: right-sidebar
+      category: tutorial
+  - scope:
+      path: "content/reference"
+      type: "pages"
+    values:
+      layout: right-sidebar
+      category: reference
+  - scope:
+      path: "content/blog"
+      type: "pages"
+    values:
+      layout: right-sidebar
+      category: blog
 
 # Exclude from processing
 exclude:
@@ -30,3 +67,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - _templates/
