@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: sidebar
 title: Getting Started
+id: getting-started
 permalink: /tutorials/getting-started/
 ---
 

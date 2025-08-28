@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: sidebar
 title: About
+id: about
 permalink: /about/
 ---
 
