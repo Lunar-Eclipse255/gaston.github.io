@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div class="sidebar">
+  <h3>{{ site.title | default: "Documentation" }}</h3>
+  <ul>
+    <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Documentation Home</a></li>
+    <li><a href="{{ '/about/' | relative_url }}" {% if page.url == '/about/' %}class="active"{% endif %}>About</a></li>
+  </ul>
+  
+  <h4 style="color: #a0a0a0; font-size: 0.8rem; text-transform: uppercase; margin: 2rem 0 1rem; padding: 0 0.75rem;">Tutorials</h4>
+  <ul>
+    <li><a href="#">1 - Getting Started</a></li>
+    <li><a href="#">2 - Configuration</a></li>
+    <li><a href="#">3 - Advanced Topics</a></li>
+  </ul>
+  
+  <h4 style="color: #a0a0a0; font-size: 0.8rem; text-transform: uppercase; margin: 2rem 0 1rem; padding: 0 0.75rem;">Reference</h4>
+  <ul>
+    <li><a href="#">API Reference</a></li>
+    <li><a href="#">CLI Commands</a></li>
+  </ul>
+</div>
+
+<div class="main-content">
+  <h1>{{ page.title }}</h1>
+  {{ content }}
+</div>

@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: sidebar
 title: Documentation Home
 ---
 

@@ -62,4 +62,95 @@ body {
   background: #2a2a2a !important;
 }
 
+/* Hide RSS feed icon and subscription text */
+.rss-subscribe {
+  display: none !important;
+}
+
+svg {
+  display: none !important;
+}
+
+.site-footer p {
+  display: none !important;
+}
+
+/* Hide the default header navigation */
+.site-nav {
+  display: none !important;
+}
+
+/* Create sidebar layout */
+.page-content {
+  display: flex !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.wrapper {
+  display: flex !important;
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 280px;
+  background: #2d2d2d;
+  border-right: 1px solid #404040;
+  padding: 2rem 1rem;
+  position: fixed;
+  height: 100vh;
+  overflow-y: auto;
+  z-index: 1000;
+}
+
+.sidebar h3 {
+  color: #ffffff;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #404040;
+}
+
+.sidebar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.sidebar li {
+  margin-bottom: 0.5rem;
+}
+
+.sidebar a {
+  display: block;
+  padding: 0.5rem 0.75rem;
+  color: #e0e0e0;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: all 0.2s ease;
+}
+
+.sidebar a:hover {
+  background: #3a3a3a;
+  color: #4ade80;
+}
+
+.sidebar a.active {
+  background: #2a4a3a;
+  color: #4ade80;
+  border-left: 3px solid #4ade80;
+}
+
+/* Main content area */
+.main-content {
+  margin-left: 280px;
+  flex: 1;
+  padding: 2rem;
+  min-height: 100vh;
+}
+
 
