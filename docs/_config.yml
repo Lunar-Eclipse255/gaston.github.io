@@ -2,9 +2,10 @@ title: Gaston's Website
 description: My personal website built with Jekyll and GitHub Pages
 url: "https://lunar-eclipse255.github.io/gaston.github.io/"
 baseurl: ""
+repository: Lunar-Eclipse255/gaston.github.io
 
 # Theme
-remote_theme: zendesk/jekyll-theme-zendesk-garden
+remote_theme: jekyll/minima
 
 # Plugins
 plugins:
