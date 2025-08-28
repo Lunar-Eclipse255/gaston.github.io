@@ -42,38 +42,68 @@
 </nav>
 
 <style>
+/* Catppuccin Macchiato Color Variables */
+:root {
+  --ctp-base: #24273a;
+  --ctp-mantle: #1e2030;
+  --ctp-crust: #181926;
+  --ctp-surface0: #363a4f;
+  --ctp-surface1: #494d64;
+  --ctp-surface2: #5b6078;
+  --ctp-overlay0: #6e738d;
+  --ctp-overlay1: #8087a2;
+  --ctp-overlay2: #939ab7;
+  --ctp-subtext0: #a5adcb;
+  --ctp-subtext1: #b8c0e0;
+  --ctp-text: #cad3f5;
+  --ctp-lavender: #b7bdf8;
+  --ctp-blue: #8aadf4;
+  --ctp-sapphire: #7dc4e4;
+  --ctp-sky: #91d7e3;
+  --ctp-teal: #8bd5ca;
+  --ctp-green: #a6da95;
+  --ctp-yellow: #eed49f;
+  --ctp-peach: #f5a97f;
+  --ctp-maroon: #ee99a0;
+  --ctp-red: #ed8796;
+  --ctp-mauve: #c6a0f6;
+  --ctp-pink: #f5bde6;
+  --ctp-flamingo: #f0c6c6;
+  --ctp-rosewater: #f4dbd6;
+}
+
 .garden-sidebar {
   position: fixed;
   left: 0;
   top: 0;
   width: 280px;
   height: 100vh;
-  background: #24273a;
+  background: var(--ctp-base);
   padding: 2rem 1rem;
   overflow-y: auto;
   z-index: 1000;
-  border-right: 1px solid #363a4f;
+  border-right: 1px solid var(--ctp-surface0);
 }
 
 .sidebar-header {
   padding-bottom: 1.5rem;
-  border-bottom: 1px solid #363a4f;
+  border-bottom: 1px solid var(--ctp-surface0);
   margin-bottom: 1.5rem;
 }
 
 .sidebar-header h3 {
-  color: #b7bdf8;
+  color: var(--ctp-lavender);
   font-size: 1.2rem;
   margin-bottom: 0.5rem;
 }
 
 .sidebar-header h3 a {
-  color: #b7bdf8;
+  color: var(--ctp-lavender);
   text-decoration: none;
 }
 
 .sidebar-header p {
-  color: #a5adcb;
+  color: var(--ctp-subtext0);
   font-size: 0.9rem;
   margin: 0;
 }
@@ -89,7 +119,7 @@
 }
 
 .section-title {
-  color: #a5adcb;
+  color: var(--ctp-subtext0);
   font-size: 0.8rem;
   text-transform: uppercase;
   letter-spacing: 0.5px;
@@ -110,7 +140,7 @@
 .nav-link {
   display: block;
   padding: 0.5rem 0.75rem;
-  color: #cad3f5;
+  color: var(--ctp-text);
   text-decoration: none;
   border-radius: 4px;
   transition: all 0.2s ease;
@@ -118,14 +148,14 @@
 }
 
 .nav-link:hover {
-  background: #363a4f;
-  color: #c6a0f6;
+  background: var(--ctp-surface0);
+  color: var(--ctp-mauve);
 }
 
 .nav-link.active {
-  background: #2a4a3a;
-  color: #a6da95;
-  border-left-color: #a6da95;
+  background: var(--ctp-surface1);
+  color: var(--ctp-green);
+  border-left-color: var(--ctp-green);
 }
 
 /* Push main content to the right */
@@ -133,9 +163,156 @@
   margin-left: 280px;
 }
 
+/* Full Catppuccin Macchiato Theme */
 body {
-  background-color: #24273a !important;
-  color: #cad3f5 !important;
+  background-color: var(--ctp-base) !important;
+  color: var(--ctp-text) !important;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+}
+
+/* Header styling */
+.project-name {
+  color: var(--ctp-lavender) !important;
+  font-weight: 700 !important;
+}
+
+.project-tagline {
+  color: var(--ctp-subtext1) !important;
+  font-weight: 400 !important;
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--ctp-lavender) !important;
+}
+
+p {
+  color: var(--ctp-text) !important;
+}
+
+/* Links */
+a {
+  color: var(--ctp-blue) !important;
+  text-decoration: none !important;
+}
+
+a:hover {
+  color: var(--ctp-sapphire) !important;
+  text-decoration: underline !important;
+}
+
+/* Code styling */
+code {
+  background-color: var(--ctp-surface0) !important;
+  color: var(--ctp-green) !important;
+  padding: 2px 6px !important;
+  border-radius: 4px !important;
+  font-size: 0.9em !important;
+}
+
+pre {
+  background-color: var(--ctp-mantle) !important;
+  border: 1px solid var(--ctp-surface0) !important;
+  border-radius: 6px !important;
+  padding: 1rem !important;
+  overflow-x: auto !important;
+}
+
+pre code {
+  background-color: transparent !important;
+  color: var(--ctp-text) !important;
+  padding: 0 !important;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid var(--ctp-mauve) !important;
+  background-color: var(--ctp-surface0) !important;
+  color: var(--ctp-subtext1) !important;
+  padding: 1rem !important;
+  margin: 1rem 0 !important;
+  border-radius: 0 4px 4px 0 !important;
+}
+
+/* Lists */
+ul, ol {
+  color: var(--ctp-text) !important;
+}
+
+li {
+  color: var(--ctp-text) !important;
+  margin-bottom: 0.5rem !important;
+}
+
+/* Tables */
+table {
+  background-color: var(--ctp-surface0) !important;
+  border: 1px solid var(--ctp-surface1) !important;
+  border-radius: 6px !important;
+  overflow: hidden !important;
+}
+
+th {
+  background-color: var(--ctp-surface1) !important;
+  color: var(--ctp-lavender) !important;
+  font-weight: 600 !important;
+  padding: 0.75rem !important;
+}
+
+td {
+  border: 1px solid var(--ctp-surface1) !important;
+  color: var(--ctp-text) !important;
+  padding: 0.75rem !important;
+}
+
+/* Buttons and form elements */
+button, .btn {
+  background-color: var(--ctp-mauve) !important;
+  color: var(--ctp-base) !important;
+  border: none !important;
+  padding: 0.5rem 1rem !important;
+  border-radius: 6px !important;
+  font-weight: 500 !important;
+  cursor: pointer !important;
+  transition: all 0.2s ease !important;
+}
+
+button:hover, .btn:hover {
+  background-color: var(--ctp-pink) !important;
+  transform: translateY(-1px) !important;
+}
+
+/* Input fields */
+input, textarea {
+  background-color: var(--ctp-surface0) !important;
+  color: var(--ctp-text) !important;
+  border: 1px solid var(--ctp-surface1) !important;
+  border-radius: 6px !important;
+  padding: 0.5rem !important;
+}
+
+input:focus, textarea:focus {
+  border-color: var(--ctp-mauve) !important;
+  outline: none !important;
+  box-shadow: 0 0 0 2px var(--ctp-mauve)25 !important;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--ctp-base);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--ctp-surface1);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--ctp-surface2);
 }
 
 @media (max-width: 768px) {
