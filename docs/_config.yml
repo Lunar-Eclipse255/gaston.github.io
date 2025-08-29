@@ -40,7 +40,7 @@ sidebar:
       - push-back
       - maelstrom
       - roboscout
-  - label: python
+  - label: Python (2022-2023)
     children:
       - python-intro
       - python-anagram
