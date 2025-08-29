@@ -12,24 +12,42 @@ plugins:
   - jekyll-sitemap
 
 # Garden-style sidebar navigation
-sidebar:
-  - home
-  - about
-  - label: Tutorials
-    children:
-      - getting-started
-      - configuration
-  - label: Reference
-    children:
-      - api-reference
+# sidebar:
+#   - home
+#   - about
+#   - label: Tutorials
+#     children:
+#       - getting-started
+#       - configuration
+#   - label: Reference
+#     children:
+#       - api-reference
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
 
 sidebar:
-  - home
-  - about-me
+  - label: Main
+    children: 
+      - home
+      - about-me
+  - label: Robotics
+    children:
+      - spin-up
+      - over-under
+      - high-stakes
+      - push-back
+      - maelstrom
+      - roboscout
+  - label: python
+    children:
+      - python-intro
+      - python-anagram
+      - python-final
+  - label: Steam Seminar
+    children:
+      - steam-seminar
 
 
 # Exclude from processing
@@ -37,3 +55,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor/
+  - vendor
+  - docs/vendor
