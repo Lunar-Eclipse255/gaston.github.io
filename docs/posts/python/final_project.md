@@ -28,7 +28,7 @@ What is the favorite game you have made this semester and why?
 Pong, it worked well and had a clean aesthetic.
 
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; gap: 0px; flex-wrap: wrap;">
   <video width="400" controls>
     <source src="{{ site.baseurl }}/assets/videos/game_code.mp4" type="video/mp4">
     Your browser does not support the video tag.
