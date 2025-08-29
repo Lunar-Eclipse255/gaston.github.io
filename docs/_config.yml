@@ -50,10 +50,11 @@ sidebar:
       - steam-seminar
 
 
-# Exclude from processing
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - vendor/
-  - vendor
-  - docs/vendor
+  - "vendor"
+  - "docs/vendor"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "node_modules"
+  - "README.md"
+  - "package.json"
