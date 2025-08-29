@@ -29,13 +29,13 @@ Pong, it worked well and had a clean aesthetic.
 
 
 <div style="display: flex; gap: 0px; flex-wrap: wrap;">
-  <video width="400" controls>
-    <source src="{{ site.baseurl }}/assets/videos/game_code.mp4" type="video/mp4">
+<video width="400" controls>
+    <source src="{{ site.baseurl }}/assets/videos/final_game.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-
+  
   <video width="400" controls>
-    <source src="{{ site.baseurl }}/assets/videos/final_game.mp4" type="video/mp4">
+    <source src="{{ site.baseurl }}/assets/videos/game_code.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
