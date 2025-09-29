@@ -1,10 +1,10 @@
 ---
 layout: sidebar
-title: STEAM Story—--Personal Narrative
+title: STEAM Story—Personal Narrative
 id: personal-narrative
 ---
 
-## Telling My STEAM Story—--Personal Narrative
+## Telling My STEAM Story—-Personal Narrative
 
 &nbsp; &nbsp; I was first introduced to the wonderful world of computer science 
 and engineering at an FLL robotics camp in the 6th grade, where I was able to build and program a robot, and that got me hooked. One thing led to another, and who would've known that this initial start would have led to where I am now? The STEAM certificate program that I am currently pursuing is the computer science certificate. In this personal narrative I plan to explain why I chose to pursue the STEAM computer science certificate as well as how this certificate connect to my future.
