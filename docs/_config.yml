@@ -47,7 +47,7 @@ sidebar:
       - python-final
   - label: Steam Seminar
     children:
-      - steam-seminar
+      - personal-narrative
 
 
 exclude:
