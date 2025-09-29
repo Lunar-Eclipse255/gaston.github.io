@@ -6,7 +6,7 @@ id: steam-seminar
 
 <!-- ## <center> Telling My STEAM Story—Personal Narrative</center> -->
 
-    I was first introduced to the wonderful world of computer science and 
+&nbsp; I was first introduced to the wonderful world of computer science and 
 engineering at an FLL robotics camp in the 6th grade, where I was able to build and program a robot, and that got me hooked. One thing led to another, and who would've known that this initial start would have led to where I am now? The STEAM certificate program that I am currently pursuing is the computer science certificate. In this personal narrative I plan to explain why I chose to pursue the STEAM computer science certificate as well as how this certificate connect to my future.
 I got this passion for computer science (and the want for the computer science degree) from programming FLL robots starting at that camp in middle school. This enthusiasm for programming continued in high school, where I had the opportunity to program complex autonomous routines for robots. I also got to explore more complex coding projects, such as telemetry logging for robotics, spline interpolation for points, and the ability to beta develop and work on an app.
 
