@@ -48,6 +48,7 @@ sidebar:
   - label: Steam Seminar
     children:
       - personal-narrative
+      - reflections-ai
 
 
 exclude:
