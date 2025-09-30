@@ -23,7 +23,7 @@ I belive the single most important action to prepare for the increasing integrat
 
 ### AI in Industry: Write a brief introduction about the AI Industry flyer assignment in your own words. What were you asked to do? Then include a screenshot of your final poster:
 
-<img src="{{ site.baseurl }}/assets/images/ai_industry_flyer.jpeg" alt="ai_flyer" width="300"/>
+<img src="{{ site.baseurl }}/assets/images/ai_industry_flyer.png" alt="ai_flyer" width="300"/>
 
 ### Biggest Takeaway: What is your biggest takeaway from our study of AI? Explain:
 
