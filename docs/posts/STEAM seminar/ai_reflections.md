@@ -22,7 +22,9 @@ A real world situation in which a biased AI model could negatively impact a spec
 I belive the single most important action to prepare for the increasing integration of AI, is educational change. In which schools would educate students on the use and issues of AI. In which they would not bar the use of AI fully but educate on how to properly use it as a tool, as well as educate them on how to ethically and responsibly use AI. Education can also lead to a greater understanding on how AI works, so that future lawmakers, having a better understanding when trying to make regulation regarding AI. Lastly, teaching on the issues with AI will help people have a greater understanding on it's impact as well as how the models can be sometimes biased and untruthful. 
 
 ### AI in Industry: Write a brief introduction about the AI Industry flyer assignment in your own words. What were you asked to do? Then include a screenshot of your final poster:
+The AI in Industry flyer assignment was to learn about how AI is used in a selected industry with examples. As well as the benefits and concerns that came from the use of AI in that industry. We were asked to research from peer-reviewed papers along with trusted website in order to accumulate 15 or more facts.
 
+I chose to do AI in Software Engineering, here is my flyer:
 <img src="{{ site.baseurl }}/assets/images/ai_industry_flyer.png" alt="ai_flyer" width="300"/>
 
 ### Biggest Takeaway: What is your biggest takeaway from our study of AI? Explain:
