@@ -5,10 +5,10 @@ id: reflections-ai
 ---
 
 ### Definition: What is your personal definition of Artificial Intelligence?
-Artificial Intelligence is a trained algorithm with the ability to have dynamic weights and priorities in order to solve a problem, in contrast to algorithms with static weights. 
+Artificial Intelligence is a trained algorithm with the ability to have dynamic weights and priorities in order to solve a problem, in contrast to algorithms with static weights. Meaning that the AI uses multiple different weights in order to determine an ouput. With the AI being able to change their weights, in turn changing the priorities of certain factors. The weighing of the different weights is done through training (whether it be supervised, unsepervised or reinforcement learning). As opposed to a simpler algorithm in which these weights anre static, and pre-inputted so that the algorithm has a predetermined priority of factors to get an output.
 
 ### Technological Impact and Personal Connection: Identify a specific AI application or tool that you interact with or observe daily. How has your understanding of the underlying technology changed your perspective on this interaction?
-The AI tool that I would say that I use most often woul dbe a LLM Chatbot such as ChatGPT. My understanding of the underlying technology hasn't changed my perespective on this interatction because I already had understanding of the underlying technology. 
+The AI tool that I would say that I use most often would be a LLM Chatbot such as ChatGPT. My understanding of the underlying technology 
 
 ### Bias and Equity in Model Training: You've learned about how data can introduce bias into AI models. Describe a real-world scenario where a biased AI model could negatively impact a specific group of people. What steps could the developers take in the training data or model evaluation phase to mitigate this unfairness?
 
