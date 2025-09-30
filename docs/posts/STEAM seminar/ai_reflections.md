@@ -25,6 +25,7 @@ I belive the single most important action to prepare for the increasing integrat
 The AI in Industry flyer assignment was to learn about how AI is used in a selected industry with examples. As well as the benefits and concerns that came from the use of AI in that industry. We were asked to research from peer-reviewed papers along with trusted website in order to accumulate 15 or more facts.
 
 I chose to do AI in Software Engineering, here is my flyer:
+
 <img src="{{ site.baseurl }}/assets/images/ai_industry_flyer.png" alt="ai_flyer" width="300"/>
 
 ### Biggest Takeaway: What is your biggest takeaway from our study of AI? Explain:
