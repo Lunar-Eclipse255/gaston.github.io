@@ -8,7 +8,7 @@ id: design-thinking
 
 ### Project Overview: (image of EDP)
 For this project we were asked to design a hat using the Design Thinking process, to solve a real-world issue faced by a persona. We followed all five stages empathy, define, ideate, prototype, and test, in order to structure our work. Using this framework allowed us to stay on focus, rather than just jumping straight to a final solution. It also allowed us to come up with a borad range of ideas/solutions, rather than just one.
-
+<img src="{{ site.baseurl }}/assets/images/steam/edp.png" alt="edp" width="200" style="border-radius: 8px;"/>
 
 ### Empathy: (George image)
 Our persona was George, a bike delivery driver who works long hours outdoors. By researching we discovered that bike delivery drivers experience exposure to sunlight and heat, night riding with poor visibility, poor weather, strain, and distracted drivers. We used each of these insights to inform each part of our final design. Such as brim to cover the sun, the plastic shield and heating/cooling pipes for the weather and temperature, or reflecter and lamps to make the biker more visible at night. 
@@ -32,3 +32,7 @@ In the iteration phase we used feedback from when we presented the idea and prot
 
 ### Reflection:
 The most challenging phase was ideation, because it required balancing creativity with realistic ideas. It was hard not to shoot down ideas that seem to far fetched, even though they later are discovered to be feasible. The Design thinking proccess is applicable to almost everything, in the future when devloping our EDP final project, I can start with empathy to make sure that my final solution acually helps people, by first understanding the users. Another helpful aspect is iterating the design based off testing where feedback helps to improve your work rather than just criticism, which is specifically applicable in robotics, with subsytems. 
+
+
+### Link to Hat Design Project Notebook:
+[Notebook](https://docs.google.com/presentation/d/1UQI5ie9ZjemcLRWDiWy0Xm6VkzQDSZ2wSnxv40Eyrz0/edit?usp=sharing)
