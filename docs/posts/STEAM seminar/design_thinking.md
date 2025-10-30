@@ -12,7 +12,7 @@ id: design-thinking
   <figcaption style="color: #b8c0e0; font-size: 0.85em; margin-top: 0.5rem; font-style: italic; text-align: center;">Engineering Design Process</figcaption>
 </figure>
 
-For this project we were asked to design a hat using the Design Thinking process, to solve a real-world issue faced by a persona. We followed all five stages empathy, define, ideate, prototype, and test, in order to structure our work. Using this framework allowed us to stay on focus, rather than just jumping straight to a final solution. It also allowed us to come up with a borad range of ideas/solutions, rather than just one.
+For this project we were asked to design a hat using the Design Thinking process to solve a real-world issue faced by a persona. We followed all five stages&mdash;empathy, define, ideate, prototype, and test&mdash;to structure our work. Using this framework allowed us to stay focused rather than just jumping straight to a final solution. It also allowed us to come up with a broad range of ideas/solutions, rather than just one.
 
 <br>
 
