@@ -31,7 +31,7 @@ To narrow down the problem in the define phase we created several Point of View 
 
 <br>
 
-### Ideation & Risk (Prototypes and sketch):
+### Ideation & Risk:
 The ideation phase allowed us to brainstorm, and come up with ideas in which no idea was a bad idea. We thought of ideas like reflective surfaces, sound alerts, visors, built-in fans, lane-line illumination, crash sensors, and more. The most unconventional idea was a hat that could project light to show the bike’s path. Even though we didn’t pursue that ideas, exploring risky and "out of the box" ideas helped us to think creatively before narrowing down our ideas into something more realistic. Eventually, we combined multiple elements, such as lighting, reflectivity, rain & sun shielding, and temperature control into one idea/hat.
 
 <div class="carousel-container" style="max-width: 600px; margin: 2rem auto; position: relative;">
@@ -79,19 +79,19 @@ One key feature of our prototype was its reflective and light system. In order t
 <div class="carousel-container" style="max-width: 600px; margin: 2rem auto; position: relative;">
   <div class="carousel-slides-prototype">
     <div class="carousel-slide-prototype active" style="display: block;">
-      <img src="{{ site.baseurl }}/assets/images/steam/prototype_iso.jpeg" alt="Prototype Isometric View" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
+      <img src="{{ site.baseurl }}/assets/images/steam/prototype_iso.jpg" alt="Prototype Isometric View" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
       <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">Isometric View</p>
     </div>
     <div class="carousel-slide-prototype" style="display: none;">
-      <img src="{{ site.baseurl }}/assets/images/steam/prototype_back.jpeg" alt="Prototype Back View" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
+      <img src="{{ site.baseurl }}/assets/images/steam/prototype_back.jpg" alt="Prototype Back View" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
       <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">Back View</p>
     </div>
     <div class="carousel-slide-prototype" style="display: none;">
-      <img src="{{ site.baseurl }}/assets/images/steam/prototype_bottom.jpeg" alt="Prototype Bottom View" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
+      <img src="{{ site.baseurl }}/assets/images/steam/prototype_bottom.jpg" alt="Prototype Bottom View" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
       <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">Bottom View</p>
     </div>
     <div class="carousel-slide-prototype" style="display: none;">
-      <img src="{{ site.baseurl }}/assets/images/steam/prototype_top.jpeg" alt="Prototype Top View" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
+      <img src="{{ site.baseurl }}/assets/images/steam/prototype_top.jpg" alt="Prototype Top View" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
       <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">Top View</p>
     </div>
   </div>
@@ -123,3 +123,8 @@ The most challenging phase was ideation, because it required balancing creativit
 
 ### Link to Hat Design Project Notebook:
 [Notebook](https://docs.google.com/presentation/d/1UQI5ie9ZjemcLRWDiWy0Xm6VkzQDSZ2wSnxv40Eyrz0/edit?usp=sharing)
+
+<br>
+<br>
+
+### Citations:
