@@ -45,6 +45,7 @@ One key feature of our prototype was its reflective and light system. In order t
     <img class="carousel-slide" src="{{ site.baseurl }}/assets/images/steam/sketch_two.jpeg" alt="Sketch 2" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f; display: none;">
     <img class="carousel-slide" src="{{ site.baseurl }}/assets/images/steam/sketch_three.jpeg" alt="Sketch 3" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f; display: none;">
     <img class="carousel-slide" src="{{ site.baseurl }}/assets/images/steam/sketch_four.jpeg" alt="Sketch 4" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f; display: none;">
+    <img class="carousel-slide" src="{{ site.baseurl }}/assets/images/steam/sketch_final.jpeg" alt="Final Sketch" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f; display: none;">
   </div>
 
   <button class="carousel-btn prev" onclick="changeSlide(-1)" style="position: absolute; left: 10px; top: 50%; transform: translateY(-50%); background: #c6a0f6; color: #24273a; border: none; padding: 10px 15px; border-radius: 6px; cursor: pointer; font-size: 18px; font-weight: bold;">❮</button>
@@ -55,39 +56,11 @@ One key feature of our prototype was its reflective and light system. In order t
     <span class="dot" onclick="currentSlide(2)" style="height: 12px; width: 12px; margin: 0 5px; background-color: #5b6078; border-radius: 50%; display: inline-block; cursor: pointer;"></span>
     <span class="dot" onclick="currentSlide(3)" style="height: 12px; width: 12px; margin: 0 5px; background-color: #5b6078; border-radius: 50%; display: inline-block; cursor: pointer;"></span>
     <span class="dot" onclick="currentSlide(4)" style="height: 12px; width: 12px; margin: 0 5px; background-color: #5b6078; border-radius: 50%; display: inline-block; cursor: pointer;"></span>
+    <span class="dot" onclick="currentSlide(5)" style="height: 12px; width: 12px; margin: 0 5px; background-color: #5b6078; border-radius: 50%; display: inline-block; cursor: pointer;"></span>
   </div>
 </div>
 
-<script>
-let slideIndex = 1;
-
-function changeSlide(n) {
-  showSlide(slideIndex += n);
-}
-
-function currentSlide(n) {
-  showSlide(slideIndex = n);
-}
-
-function showSlide(n) {
-  let slides = document.getElementsByClassName("carousel-slide");
-  let dots = document.getElementsByClassName("dot");
-
-  if (n > slides.length) { slideIndex = 1 }
-  if (n < 1) { slideIndex = slides.length }
-
-  for (let i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";
-  }
-
-  for (let i = 0; i < dots.length; i++) {
-    dots[i].style.backgroundColor = "#5b6078";
-  }
-
-  slides[slideIndex - 1].style.display = "block";
-  dots[slideIndex - 1].style.backgroundColor = "#c6a0f6";
-}
-</script>
+<script src="{{ site.baseurl }}/assets/js/carousel.js"></script>
 
 
 <br>
