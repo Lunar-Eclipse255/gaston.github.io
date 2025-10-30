@@ -38,19 +38,19 @@ The ideation phase allowed us to brainstorm, and come up with ideas in which no 
   <div class="carousel-slides">
     <div class="carousel-slide active" style="display: block;">
       <img src="{{ site.baseurl }}/assets/images/steam/ideate_sketch_one.jpeg" alt="Sketch 1" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
-      <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">Initial Concept Sketch</p>
+      <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">Idea 1 Sketch</p>
     </div>
     <div class="carousel-slide" style="display: none;">
       <img src="{{ site.baseurl }}/assets/images/steam/ideate_sketch_two.jpeg" alt="Sketch 2" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
-      <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">Design Iteration 2</p>
+      <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;"> Idea 2 Sketch</p>
     </div>
     <div class="carousel-slide" style="display: none;">
       <img src="{{ site.baseurl }}/assets/images/steam/ideate_sketch_three.jpeg" alt="Sketch 3" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
-      <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">Design Iteration 3</p>
+      <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">Idea 3 Sketch</p>
     </div>
     <div class="carousel-slide" style="display: none;">
       <img src="{{ site.baseurl }}/assets/images/steam/ideate_sketch_four.jpeg" alt="Sketch 4" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
-      <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">Design Iteration 4</p>
+      <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">Idea 1 Sketch</p>
     </div>
     <div class="carousel-slide" style="display: none;">
       <img src="{{ site.baseurl }}/assets/images/steam/ideate_sketch_final.jpg" alt="Final Sketch" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
@@ -76,6 +76,38 @@ The ideation phase allowed us to brainstorm, and come up with ideas in which no 
 ### Prototyping:
 One key feature of our prototype was its reflective and light system. In order to have the biker be more visible at night the hat has a front and back mounted lamp, as well as a reflective strip on each side. We used silver pipe cleaners for the reflective strips, and half cut ping-pong balls for the lamps. We also used carboard for structure, pipe cleaners for heating/cooling pipes, and plastic bags for rain protection. These materials helped communicate the hat’s functionality, such as cardboard for rigidity and safety,plastic for weatherproofing, and shiny materials for visibility. Even as a prototype, these choices made the purpose clear.
 
+<div class="carousel-container" style="max-width: 600px; margin: 2rem auto; position: relative;">
+  <div class="carousel-slides-prototype">
+    <div class="carousel-slide-prototype active" style="display: block;">
+      <img src="{{ site.baseurl }}/assets/images/steam/prototype_iso.jpeg" alt="Prototype Isometric View" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
+      <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">Isometric View</p>
+    </div>
+    <div class="carousel-slide-prototype" style="display: none;">
+      <img src="{{ site.baseurl }}/assets/images/steam/prototype_back.jpeg" alt="Prototype Back View" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
+      <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">Back View</p>
+    </div>
+    <div class="carousel-slide-prototype" style="display: none;">
+      <img src="{{ site.baseurl }}/assets/images/steam/prototype_bottom.jpeg" alt="Prototype Bottom View" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
+      <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">Bottom View</p>
+    </div>
+    <div class="carousel-slide-prototype" style="display: none;">
+      <img src="{{ site.baseurl }}/assets/images/steam/prototype_top.jpeg" alt="Prototype Top View" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
+      <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">Top View</p>
+    </div>
+  </div>
+
+  <button class="carousel-btn-prototype prev" onclick="changeSlidePrototype(-1)" style="position: absolute; left: 10px; top: 50%; transform: translateY(-50%); background: #c6a0f6; color: #24273a; border: none; padding: 10px 15px; border-radius: 6px; cursor: pointer; font-size: 18px; font-weight: bold;">❮</button>
+  <button class="carousel-btn-prototype next" onclick="changeSlidePrototype(1)" style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); background: #c6a0f6; color: #24273a; border: none; padding: 10px 15px; border-radius: 6px; cursor: pointer; font-size: 18px; font-weight: bold;">❯</button>
+
+  <div class="carousel-dots-prototype" style="text-align: center; margin-top: 1rem;">
+    <span class="dot-prototype active" onclick="currentSlidePrototype(1)" style="height: 12px; width: 12px; margin: 0 5px; background-color: #c6a0f6; border-radius: 50%; display: inline-block; cursor: pointer;"></span>
+    <span class="dot-prototype" onclick="currentSlidePrototype(2)" style="height: 12px; width: 12px; margin: 0 5px; background-color: #5b6078; border-radius: 50%; display: inline-block; cursor: pointer;"></span>
+    <span class="dot-prototype" onclick="currentSlidePrototype(3)" style="height: 12px; width: 12px; margin: 0 5px; background-color: #5b6078; border-radius: 50%; display: inline-block; cursor: pointer;"></span>
+    <span class="dot-prototype" onclick="currentSlidePrototype(4)" style="height: 12px; width: 12px; margin: 0 5px; background-color: #5b6078; border-radius: 50%; display: inline-block; cursor: pointer;"></span>
+  </div>
+</div>
+
+<script src="{{ site.baseurl }}/assets/js/carousel-prototype.js"></script>
 
 <br>
 
