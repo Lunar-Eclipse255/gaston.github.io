@@ -41,10 +41,10 @@ One key feature of our prototype was its reflective and light system. In order t
 
 <div class="carousel-container" style="max-width: 600px; margin: 2rem auto; position: relative;">
   <div class="carousel-slides">
-    <img class="carousel-slide active" src="{{ site.baseurl }}/assets/images/steam/sketch_one.png" alt="Sketch 1" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f; display: block;">
-    <img class="carousel-slide" src="{{ site.baseurl }}/assets/images/steam/sketch_two.png" alt="Sketch 2" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f; display: none;">
-    <img class="carousel-slide" src="{{ site.baseurl }}/assets/images/steam/sketch_three.png" alt="Sketch 3" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f; display: none;">
-    <img class="carousel-slide" src="{{ site.baseurl }}/assets/images/steam/sketch_four.png" alt="Sketch 4" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f; display: none;">
+    <img class="carousel-slide active" src="{{ site.baseurl }}/assets/images/steam/sketch_one.jpeg" alt="Sketch 1" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f; display: block;">
+    <img class="carousel-slide" src="{{ site.baseurl }}/assets/images/steam/sketch_two.jpeg" alt="Sketch 2" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f; display: none;">
+    <img class="carousel-slide" src="{{ site.baseurl }}/assets/images/steam/sketch_three.jpeg" alt="Sketch 3" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f; display: none;">
+    <img class="carousel-slide" src="{{ site.baseurl }}/assets/images/steam/sketch_four.jpeg" alt="Sketch 4" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f; display: none;">
   </div>
 
   <button class="carousel-btn prev" onclick="changeSlide(-1)" style="position: absolute; left: 10px; top: 50%; transform: translateY(-50%); background: #c6a0f6; color: #24273a; border: none; padding: 10px 15px; border-radius: 6px; cursor: pointer; font-size: 18px; font-weight: bold;">❮</button>
