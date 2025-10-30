@@ -49,6 +49,7 @@ sidebar:
     children:
       - personal-narrative
       - reflections-ai
+      - design-thinking
 
 
 exclude:
