@@ -8,7 +8,10 @@ id: design-thinking
 
 ### Project Overview: (image of EDP)
 For this project we were asked to design a hat using the Design Thinking process, to solve a real-world issue faced by a persona. We followed all five stages empathy, define, ideate, prototype, and test, in order to structure our work. Using this framework allowed us to stay on focus, rather than just jumping straight to a final solution. It also allowed us to come up with a borad range of ideas/solutions, rather than just one.
-<img src="{{ site.baseurl }}/assets/images/steam/edp.png" alt="edp" width="200" style="border-radius: 8px;"/>
+<figure style="text-align: center; margin: 1.5rem 0;">
+  <img src="{{ site.baseurl }}/assets/images/steam/edp.png" alt="edp" width="200" style="border-radius: 8px; border: 1px solid #363a4f;"/>
+  <figcaption style="color: #b8c0e0; font-size: 0.85em; margin-top: 0.5rem; font-style: italic;">Engineering Design Process diagram</figcaption>
+</figure>
 
 ### Empathy: (George image)
 Our persona was George, a bike delivery driver who works long hours outdoors. By researching we discovered that bike delivery drivers experience exposure to sunlight and heat, night riding with poor visibility, poor weather, strain, and distracted drivers. We used each of these insights to inform each part of our final design. Such as brim to cover the sun, the plastic shield and heating/cooling pipes for the weather and temperature, or reflecter and lamps to make the biker more visible at night. 
