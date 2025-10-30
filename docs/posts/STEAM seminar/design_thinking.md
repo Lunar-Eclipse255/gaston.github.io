@@ -129,4 +129,5 @@ The most challenging phase was ideation, because it required balancing creativit
 
 ### Citations:
 Gemini. (n.d.). George: The delivery driver [Image]. In Dr. Baralts class, Persona cards with images (class handout).
+<br>
 Baralt, A. (n.d.). 25–26 Hat Design Project Notebook [Class slides].
