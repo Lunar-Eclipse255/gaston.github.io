@@ -34,18 +34,28 @@ To narrow down the problem in the define phase we created several Point of View 
 ### Ideation & Risk (Prototypes and sketch):
 The ideation phase allowed us to brainstorm, and come up with ideas in which no idea was a bad idea. We thought of ideas like reflective surfaces, sound alerts, visors, built-in fans, lane-line illumination, crash sensors, and more. The most unconventional idea was a hat that could project light to show the bike’s path. Even though we didn’t pursue that ideas, exploring risky and "out of the box" ideas helped us to think creatively before narrowing down our ideas into something more realistic. Eventually, we combined multiple elements, such as lighting, reflectivity, rain & sun shielding, and temperature control into one idea/hat.
 
-<br>
-
-### Prototyping:
-One key feature of our prototype was its reflective and light system. In order to have the biker be more visible at night the hat has a front and back mounted lamp, as well as a reflective strip on each side. We used silver pipe cleaners for the reflective strips, and half cut ping-pong balls for the lamps. We also used carboard for structure, pipe cleaners for heating/cooling pipes, and plastic bags for rain protection. These materials helped communicate the hat’s functionality, such as cardboard for rigidity and safety,plastic for weatherproofing, and shiny materials for visibility. Even as a prototype, these choices made the purpose clear.
-
 <div class="carousel-container" style="max-width: 600px; margin: 2rem auto; position: relative;">
   <div class="carousel-slides">
-    <img class="carousel-slide active" src="{{ site.baseurl }}/assets/images/steam/sketch_one.jpeg" alt="Sketch 1" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f; display: block;">
-    <img class="carousel-slide" src="{{ site.baseurl }}/assets/images/steam/sketch_two.jpeg" alt="Sketch 2" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f; display: none;">
-    <img class="carousel-slide" src="{{ site.baseurl }}/assets/images/steam/sketch_three.jpeg" alt="Sketch 3" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f; display: none;">
-    <img class="carousel-slide" src="{{ site.baseurl }}/assets/images/steam/sketch_four.jpeg" alt="Sketch 4" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f; display: none;">
-    <img class="carousel-slide" src="{{ site.baseurl }}/assets/images/steam/sketch_final.jpeg" alt="Final Sketch" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f; display: none;">
+    <div class="carousel-slide active" style="display: block;">
+      <img src="{{ site.baseurl }}/assets/images/steam/ideate_sketch_one.jpeg" alt="Sketch 1" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
+      <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">Initial Concept Sketch</p>
+    </div>
+    <div class="carousel-slide" style="display: none;">
+      <img src="{{ site.baseurl }}/assets/images/steam/ideate_sketch_two.jpeg" alt="Sketch 2" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
+      <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">Design Iteration 2</p>
+    </div>
+    <div class="carousel-slide" style="display: none;">
+      <img src="{{ site.baseurl }}/assets/images/steam/ideate_sketch_three.jpeg" alt="Sketch 3" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
+      <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">Design Iteration 3</p>
+    </div>
+    <div class="carousel-slide" style="display: none;">
+      <img src="{{ site.baseurl }}/assets/images/steam/ideate_sketch_four.jpeg" alt="Sketch 4" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
+      <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">Design Iteration 4</p>
+    </div>
+    <div class="carousel-slide" style="display: none;">
+      <img src="{{ site.baseurl }}/assets/images/steam/ideate_sketch_final.jpg" alt="Final Sketch" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
+      <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">Final Design Sketch</p>
+    </div>
   </div>
 
   <button class="carousel-btn prev" onclick="changeSlide(-1)" style="position: absolute; left: 10px; top: 50%; transform: translateY(-50%); background: #c6a0f6; color: #24273a; border: none; padding: 10px 15px; border-radius: 6px; cursor: pointer; font-size: 18px; font-weight: bold;">❮</button>
@@ -61,6 +71,10 @@ One key feature of our prototype was its reflective and light system. In order t
 </div>
 
 <script src="{{ site.baseurl }}/assets/js/carousel.js"></script>
+<br>
+
+### Prototyping:
+One key feature of our prototype was its reflective and light system. In order to have the biker be more visible at night the hat has a front and back mounted lamp, as well as a reflective strip on each side. We used silver pipe cleaners for the reflective strips, and half cut ping-pong balls for the lamps. We also used carboard for structure, pipe cleaners for heating/cooling pipes, and plastic bags for rain protection. These materials helped communicate the hat’s functionality, such as cardboard for rigidity and safety,plastic for weatherproofing, and shiny materials for visibility. Even as a prototype, these choices made the purpose clear.
 
 
 <br>
