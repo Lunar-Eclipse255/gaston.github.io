@@ -22,17 +22,17 @@ For this project we were asked to design a hat using the Design Thinking process
   <figcaption style="color: #b8c0e0; font-size: 0.85em; margin-top: 0.5rem; font-style: italic; text-align: center;">Persona: George - Delivery Driver</figcaption>
 </figure>
 
-Our persona was George, a bike delivery driver who works long hours outdoors. By researching we discovered that bike delivery drivers experience exposure to sunlight and heat, night riding with poor visibility, poor weather, strain, and distracted drivers. We used each of these insights to inform each part of our final design. Such as brim to cover the sun, the plastic shield and heating/cooling pipes for the weather and temperature, or reflecter and lamps to make the biker more visible at night.
+Our persona was George, a bike delivery driver who works long hours outdoors. By researching, we discovered that bike delivery drivers experience exposure to sunlight and heat, night riding with poor visibility, poor weather, strain, and distracted drivers. We used each of these insights to inform each part of our final design. Such as a brim to cover the sun, the plastic shield and heating/cooling pipes for the weather and temperature, or reflectors and lamps to make the biker more visible at night.
 
 <br>
 
 ### Problem Definition:
-To narrow down the problem in the define phase we created several Point of View (POV) statements and evaluated which one best addressed George's needs. The one we landed on was "How might we design a hat that allows delivery drivers to be seen better in low-visibility conditions and be safer on the road?" We chose this POV because both sfatey and visibilty were central to most bike delivery drivers' concerns.
+To narrow down the problem in the define phase, we created several Point of View (POV) statements and evaluated which one best addressed George's needs. The one we landed on was “How might we design a hat that allows delivery drivers to be seen better in low-visibility conditions and be safer on the road?” We chose this POV because both safety and visibility were central to most bike delivery drivers' concerns.
 
 <br>
 
 ### Ideation & Risk:
-The ideation phase allowed us to brainstorm, and come up with ideas in which no idea was a bad idea. We thought of ideas like reflective surfaces, sound alerts, visors, built-in fans, lane-line illumination, crash sensors, and more. The most unconventional idea was a hat that could project light to show the bike’s path. Even though we didn’t pursue that ideas, exploring risky and "out of the box" ideas helped us to think creatively before narrowing down our ideas into something more realistic. Eventually, we combined multiple elements, such as lighting, reflectivity, rain & sun shielding, and temperature control into one idea/hat.
+The ideation phase allowed us to brainstorm, and come up with ideas in which no idea was a bad idea. We thought of ideas like reflective surfaces, sound alerts, visors, built-in fans, lane-line illumination, crash sensors, and more. The most unconventional idea was a hat that could project light to show the bike’s path. Even though we didn’t pursue those ideas, exploring risky and "out of the box" ideas helped us to think creatively before narrowing down our ideas into something more realistic. Eventually, we combined multiple elements, such as lighting, reflectivity, rain & sun shielding, and temperature control, into one idea/hat.
 
 <div class="carousel-container" style="max-width: 600px; margin: 2rem auto; position: relative;">
   <div class="carousel-slides">
@@ -74,7 +74,8 @@ The ideation phase allowed us to brainstorm, and come up with ideas in which no 
 <br>
 
 ### Prototyping:
-One key feature of our prototype was its reflective and light system. In order to have the biker be more visible at night the hat has a front and back mounted lamp, as well as a reflective strip on each side. We used silver pipe cleaners for the reflective strips, and half cut ping-pong balls for the lamps. We also used carboard for structure, pipe cleaners for heating/cooling pipes, and plastic bags for rain protection. These materials helped communicate the hat’s functionality, such as cardboard for rigidity and safety,plastic for weatherproofing, and shiny materials for visibility. Even as a prototype, these choices made the purpose clear.
+One key feature of our prototype was its reflective and light system. In order to have the biker be more visible at night, the hat has a front and back mounted lamp, as well as a reflective strip on each side. We used silver pipe cleaners for the reflective strips and half-cut ping-pong balls for the lamps. We also used cardboard for structure, pipe cleaners for heating/cooling pipes, and plastic bags for rain protection. These materials helped communicate the hat’s functionality, such as cardboard for rigidity and safety, plastic for weatherproofing, and shiny materials for visibility. Even as a prototype, these choices made the purpose clear.
+
 
 <div class="carousel-container" style="max-width: 600px; margin: 2rem auto; position: relative;">
   <div class="carousel-slides-prototype">
@@ -112,12 +113,12 @@ One key feature of our prototype was its reflective and light system. In order t
 <br>
 
 ### Iteration and Future Planning:
-In the iteration phase we used feedback from when we presented the idea and prototype to the class. The most important change we’d make would be to add an adjustable strap to secure the hat during wind or movement. The strap is essential because it improves comfort and safety, key concerns for bike deliver drivers, and also ensuring the hat stays in place while riding in real-world conditions.
+In the iteration phase, we used feedback from when we presented the idea and prototype to the class. The most important change we’d make would be to add an adjustable strap to secure the hat during wind or movement. The strap is essential because it improves comfort and safety, key concerns for bike delivery drivers, and also ensures the hat stays in place while riding in real-world conditions.
 
 <br>
 
 ### Reflection:
-The most challenging phase was ideation, because it required balancing creativity with realistic ideas. It was hard not to shoot down ideas that seem to far fetched, even though they later are discovered to be feasible. The Design thinking proccess is applicable to almost everything, in the future when devloping our EDP final project, I can start with empathy to make sure that my final solution acually helps people, by first understanding the users. Another helpful aspect is iterating the design based off testing where feedback helps to improve your work rather than just criticism, which is specifically applicable in robotics, with subsytems.
+The most challenging phase was ideation, because it required balancing creativity with realistic ideas. It was hard not to shoot down ideas that seemed too far-fetched, even though they later were discovered to be feasible. The Design Thinking process is applicable to almost everything. In the future, when developing our EDP final project, I can start with empathy to make sure that my final solution actually helps people by first understanding the users. Another helpful aspect is iterating the design based off testing, where feedback helps to improve your work rather than just criticism, which is specifically applicable in robotics, with subsystems.
 
 <br>
 
