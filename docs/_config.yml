@@ -50,6 +50,10 @@ sidebar:
       - personal-narrative
       - reflections-ai
       - design-thinking
+      - label: Personal Project
+        id: personal-project
+        children:
+          - empathy
 
 
 exclude:
