@@ -51,7 +51,6 @@ sidebar:
       - reflections-ai
       - design-thinking
       - label: Personal Project
-        id: personal-project
         children:
           - empathy
 

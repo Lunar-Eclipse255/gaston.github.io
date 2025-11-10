@@ -15,12 +15,18 @@
             {% for child in item.children %}
               {% if child.children %}
                 <!-- Nested section with children -->
-                {% assign child_page = site.pages | where: "id", child.id | first %}
                 <li class="nav-subsection">
-                  <a href="{{ child_page.url | relative_url }}"
-                     class="nav-link{% if page.id == child.id %} active{% endif %}">
-                    {{ child.label | default: child_page.title }}
-                  </a>
+                  {% if child.id %}
+                    <!-- Has a page -->
+                    {% assign child_page = site.pages | where: "id", child.id | first %}
+                    <a href="{{ child_page.url | relative_url }}"
+                       class="nav-link{% if page.id == child.id %} active{% endif %}">
+                      {{ child.label | default: child_page.title }}
+                    </a>
+                  {% else %}
+                    <!-- Just a label/divider -->
+                    <span class="nav-subsection-label">{{ child.label }}</span>
+                  {% endif %}
                   <ul class="section-subchildren">
                     {% for subchild_id in child.children %}
                       {% assign subchild_page = site.pages | where: "id", subchild_id | first %}
@@ -134,6 +140,15 @@
 
 .nav-subsection {
   margin-bottom: 0.5rem;
+}
+
+.nav-subsection-label {
+  display: block;
+  color: #b8c0e0;
+  font-size: 0.95rem;
+  font-weight: 600;
+  padding: 0.4rem 0.75rem;
+  margin-bottom: 0.25rem;
 }
 
 .section-subchildren {
