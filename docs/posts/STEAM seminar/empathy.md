@@ -1,7 +1,7 @@
 ---
 layout: sidebar
-title: Empathy
-id: empathy
+title: Introduction
+id: intro
 ---
 
 ## Empathy

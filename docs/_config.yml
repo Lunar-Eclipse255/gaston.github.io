@@ -52,7 +52,7 @@ sidebar:
       - design-thinking
       - label: Personal Project
         children:
-          - empathy
+          - intro
 
 
 exclude:
