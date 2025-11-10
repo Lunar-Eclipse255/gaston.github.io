@@ -12,15 +12,40 @@
         <li class="nav-section">
           <h4 class="section-title">{{ item.label }}</h4>
           <ul class="section-children">
-            {% for child_id in item.children %}
-              {% assign child_page = site.pages | where: "id", child_id | first %}
-              {% if child_page %}
-                <li>
-                  <a href="{{ child_page.url | relative_url }}" 
-                     class="nav-link{% if page.id == child_id %} active{% endif %}">
-                    {{ child_page.sidebar_label | default: child_page.title | default: child_page.name }}
+            {% for child in item.children %}
+              {% if child.children %}
+                <!-- Nested section with children -->
+                {% assign child_page = site.pages | where: "id", child.id | first %}
+                <li class="nav-subsection">
+                  <a href="{{ child_page.url | relative_url }}"
+                     class="nav-link{% if page.id == child.id %} active{% endif %}">
+                    {{ child.label | default: child_page.title }}
                   </a>
+                  <ul class="section-subchildren">
+                    {% for subchild_id in child.children %}
+                      {% assign subchild_page = site.pages | where: "id", subchild_id | first %}
+                      {% if subchild_page %}
+                        <li>
+                          <a href="{{ subchild_page.url | relative_url }}"
+                             class="nav-link{% if page.id == subchild_id %} active{% endif %}">
+                            {{ subchild_page.sidebar_label | default: subchild_page.title | default: subchild_page.name }}
+                          </a>
+                        </li>
+                      {% endif %}
+                    {% endfor %}
+                  </ul>
                 </li>
+              {% else %}
+                <!-- Simple child -->
+                {% assign child_page = site.pages | where: "id", child | first %}
+                {% if child_page %}
+                  <li>
+                    <a href="{{ child_page.url | relative_url }}"
+                       class="nav-link{% if page.id == child %} active{% endif %}">
+                      {{ child_page.sidebar_label | default: child_page.title | default: child_page.name }}
+                    </a>
+                  </li>
+                {% endif %}
               {% endif %}
             {% endfor %}
           </ul>
@@ -105,6 +130,25 @@
 
 .section-children li {
   margin-bottom: 0.25rem;
+}
+
+.nav-subsection {
+  margin-bottom: 0.5rem;
+}
+
+.section-subchildren {
+  list-style: none;
+  margin: 0.25rem 0 0 0;
+  padding-left: 1rem;
+}
+
+.section-subchildren li {
+  margin-bottom: 0.25rem;
+}
+
+.section-subchildren .nav-link {
+  font-size: 0.9rem;
+  padding: 0.3rem 0.75rem;
 }
 
 .nav-link {
