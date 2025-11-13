@@ -4,7 +4,7 @@ title: Introduction
 id: intro
 ---
 
-## Empathy
+## Personal Project Intro
 
-Content for the empathy section goes here...
+
 
