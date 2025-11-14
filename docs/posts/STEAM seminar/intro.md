@@ -41,11 +41,11 @@ How we developed the project idea is we first wrote out interests, hobbies, skil
 <div class="carousel-container" style="max-width: 600px; margin: 2rem auto; position: relative;">
   <div class="carousel-slides-prototype">
     <div class="carousel-slide-prototype active" style="display: block;">
-      <img src="{{ site.baseurl }}/assets/images/steam/blueprint.jpg" alt="Blueprint" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
+      <img src="{{ site.baseurl }}/assets/images/steam/blueprint.png" alt="Blueprint" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
       <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">Blueprint</p>
     </div>
     <div class="carousel-slide-prototype" style="display: none;">
-      <img src="{{ site.baseurl }}/assets/images/steam/web.jpg" alt="Web" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
+      <img src="{{ site.baseurl }}/assets/images/steam/web.png" alt="Web" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
       <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">Web</p>
     </div>
   </div>
