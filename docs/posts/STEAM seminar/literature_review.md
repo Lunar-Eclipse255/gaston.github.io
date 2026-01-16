@@ -33,23 +33,32 @@ id: literature-review
 ### References
 Bell, T., Andreae, P., & Lambert, L. (2014). Presenting computer science concepts to high school 
 students. Informatics in Education. Retrieved from https://ioinformatics.org/journal/v8_2014_3_20.pdf
+<br>
 Committee on How People Learn II: The Science and Practice of Learning; Board on 
 Behavioral, Cognitive, and Sensory Sciences, Board on Science Education, Division of Behavioral and Social Sciences and Education. (2018). How people learn II: Learners, contexts, and cultures. Washington, DC: The National Academies Press. https://doi.org/10.17226/24783
+<br>
 “Create a Mind Map” prompt. NotebookLM. Gemini 3. December 9, 2025.
 González, F., López, C., & Castro, C. (2019). Development of Computational Thinking in High 
 School Students: A Case Study in Chile. https://arxiv.org/pdf/1910.06080
+<br>
 Leung-Gagné, M., Cardichon, J., Scott, C., & Darling-Hammond, L. (2021). Inequitable 
 opportunity to learn: Access to advanced mathematics and science courses. Learning Policy Institute. https://learningpolicyinstitute.org/product/crdc-course-access-report
+<br>
 Mumcu, F., Kıdıman, E., and Özdinç, F. (2023). Integrating computational thinking into 
 mathematics education through an unplugged computer science activity. Journal of Pedagogical Research, 7(2), 72–92. https://doi.org/10.33902/JPR.202318528
+<br>
 Neri, F. (2021). Teaching Mathematics to Computer Scientists: Reflections and a Case Study. SN 
 Computer Science, 2(2), 1-12. https://doi.org/10.1007/s42979-021-00461-7
+<br>
 Salgarayeva, G., & Makhanova, A. (2024). Making Computer Science Accessible through 
 Universal Design for Learning in Inclusive Education. International Journal of Emerging Pedagogies (IJeP). Retrieved from https://online-journals.org/index.php/i-jep/article/view/48811
+<br>
 Sun, Q., Zhou, S., Chen, R., Feng, G., Cheung, K. T., Li, J., Hou, S.-Y., & Zeng, B. (2024). From 
 computing to quantum mechanics: Accessible and hands-on quantum computing education for high school students. EPJ Quantum Technology, 11, 58. https://doi.org/10.1140/epjqt/s40507-024-00271-9
+<br>
 Vos, P., Wiik, A., & Hernandez-Martinez, P. (2024). “Imagine, maths is used anywhere, and we 
 don’t get to know this”—upper secondary students and the relevance of advanced mathematics. Frontiers in Education, 9, 1338205. https://doi.org/10.3389/feduc.2024.1338205
+<br>
 Wolfe, R. L., Steiner, E. D., & Schweig, J. (2023). Getting students to (and through) advanced 
 math: Where course offerings and content are not adding up (RR-A827-10). RAND Corporation. https://doi.org/10.7249/RRA827-10
 
