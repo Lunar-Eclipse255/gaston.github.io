@@ -54,6 +54,7 @@ sidebar:
         children:
           - intro
           - literature-review
+          - ideate
 
 
 exclude:
