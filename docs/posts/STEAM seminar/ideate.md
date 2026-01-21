@@ -14,7 +14,7 @@ I generated my ideas by taking 20 minutes to write down any idea on Figjam that 
 <br>
 
 <figure style="float: right; margin: -1rem 0 1rem 1.5rem;">
-  <img src="{{ site.baseurl }}/assets/images/steam/figjam.png" alt="FigJam Brainstorming" width="200" style="border-radius: 8px; border: 1px solid #363a4f;"/>
+  <img src="{{ site.baseurl }}/assets/images/steam/figjam.png" alt="FigJam Brainstorming" width="500" style="border-radius: 8px; border: 1px solid #363a4f;"/>
   <figcaption style="color: #b8c0e0; font-size: 0.85em; margin-top: 0.5rem; font-style: italic; text-align: center;">FigJam Brainstorming Session</figcaption>
 </figure>
 <br>
@@ -32,7 +32,7 @@ In my Three frame narrative I did this through the perspective of a robotics stu
 <br>
 <br>
 <figure style="float: right; margin: -1rem 0 1rem 1.5rem;">
-  <img src="{{ site.baseurl }}/assets/images/steam/three_frame.jpg" alt="3 Frame Narrative" width="200" style="border-radius: 8px; border: 1px solid #363a4f;"/>
+  <img src="{{ site.baseurl }}/assets/images/steam/three_frame.jpg" alt="3 Frame Narrative" width="500" style="border-radius: 8px; border: 1px solid #363a4f;"/>
   <figcaption style="color: #b8c0e0; font-size: 0.85em; margin-top: 0.5rem; font-style: italic; text-align: center;">Three Frame Narrative</figcaption>
 </figure>
 <br>
