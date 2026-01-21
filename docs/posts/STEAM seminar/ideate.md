@@ -20,6 +20,8 @@ I generated my ideas by taking 20 minutes to write down any idea on Figjam that 
 <br>
 <br>
 
+<div style="clear: both;"></div>
+
 ### Narrowing the Focus:
 I moved from many ideas to one idea by first choosing my three favorite ideas. Then I used a selection matrix to narrow it down to one idea. The matrix had 5 criteria all out of five, and with the criteria being, Impact, Feasibility, Innovation, SDG Alignment, and STEAM Alignment. After that I created a persona to better understand the person who would use my final solution. I also created a project stoy and layed out a blueprint for my future work.
 
@@ -37,6 +39,8 @@ In my Three frame narrative I did this through the perspective of a robotics stu
 </figure>
 <br>
 <br>
+
+<div style="clear: both;"></div>
 
 ### X-Ray Views:
 Below is the X-Ray views of my paper in two parts. The first part outlines every topic that will be covered in the paper as well as whether that section will include code snippits. The second part is a control diagram of the code/math itself:
