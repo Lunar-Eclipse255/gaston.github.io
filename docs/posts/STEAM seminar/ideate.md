@@ -68,3 +68,6 @@ Below is the X-Ray views of my paper in two parts. The first part outlines every
 
 <script src="{{ site.baseurl }}/assets/js/carousel-xray.js"></script>
 
+### Conclusion: 
+
+My next steps will be to work on researching the topic more, as well as fleshing out the outline with content to work on the paper itself. I also will be working towards coding Monte Carlo Localization and implementing it on a robot for demonstrations. I think I might encounter problems in the implementation and in publishing the paper. I don't think I need support in any area at the moment.
