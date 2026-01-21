@@ -48,7 +48,7 @@ Below is the X-Ray views of my paper in two parts. The first part outlines every
       <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">Paper Outline</p>
     </div>
     <div class="carousel-slide-xray" style="display: none;">
-      <img src="{{ site.baseurl }}/assets/images/steam/code_control_diagram.jpeg" alt="Code Control Diagram" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
+      <img src="{{ site.baseurl }}/assets/images/steam/control_diagram.jpeg" alt="Code Control Diagram" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
       <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">Code Control Diagram</p>
     </div>
   </div>
