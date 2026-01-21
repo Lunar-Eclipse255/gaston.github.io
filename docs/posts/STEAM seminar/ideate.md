@@ -10,15 +10,12 @@ This part is the ideation phase in which I will start by coming up with a variet
 ### The Brainstorming Process:
 I generated my ideas by taking 20 minutes to write down any idea on Figjam that I could think of. My mindset wasn't to think of what was possible and instead I was just thinking of what could solve the problem.
 
-<br>
-<br>
 
 <figure style="text-align: center; margin: 1.5rem 0;">
-  <img src="{{ site.baseurl }}/assets/images/steam/figjam.png" alt="FigJam Brainstorming" width="350" style="border-radius: 8px; border: 1px solid #363a4f;">
+  <img src="{{ site.baseurl }}/assets/images/steam/figjam.png" alt="FigJam Brainstorming" width="450" style="border-radius: 8px; border: 1px solid #363a4f;">
   <figcaption style="color: #b8c0e0; font-size: 0.85em; margin-top: 0.5rem; font-style: italic;">FigJam Brainstorming Session</figcaption>
 </figure>
 
-<br>
 
 ### Narrowing the Focus:
 I moved from many ideas to one idea by first choosing my three favorite ideas. Then I used a selection matrix to narrow it down to one idea. The matrix had 5 criteria all out of five, and with the criteria being, Impact, Feasibility, Innovation, SDG Alignment, and STEAM Alignment. After that I created a persona to better understand the person who would use my final solution. I also created a project stoy and layed out a blueprint for my future work.
@@ -29,14 +26,12 @@ My proposed solution is a research paper with code implementation going through 
 
 In my Three frame narrative I did this through the perspective of a robotics student because that was the persona I viewed the proposed solution through. In the before the student is struggling with an autonomous movement for their robot because it is being imprecise. They then proceed to look up ways to increase precision, but all they find are graduate level papers with jargon and advanced topics. They know other students were able to do it so it's not beyond their skill level there is just a high barrier to entry. The during is when they would use my paper, which would reduce the barrier by explaining everything in more detail but at a high school level, so the student is able to get the same amount of information but is able to understand more. The after is when they are able to implement this advanced topic and their robot becomes mroe precise. 
 
-<br>
 
 <figure style="text-align: center; margin: 1.5rem 0;">
-  <img src="{{ site.baseurl }}/assets/images/steam/three_frame.jpg" alt="3 Frame Narrative" width="350" style="border-radius: 8px; border: 1px solid #363a4f;">
+  <img src="{{ site.baseurl }}/assets/images/steam/three_frame.jpg" alt="3 Frame Narrative" width="450" style="border-radius: 8px; border: 1px solid #363a4f;">
   <figcaption style="color: #b8c0e0; font-size: 0.85em; margin-top: 0.5rem; font-style: italic;">Three Frame Narrative</figcaption>
 </figure>
 
-<br>
 
 ### X-Ray Views:
 Below is the X-Ray views of my paper in two parts. The first part outlines every topic that will be covered in the paper as well as whether that section will include code snippits. The second part is a control diagram of the code/math itself:
