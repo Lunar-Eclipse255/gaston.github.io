@@ -33,3 +33,30 @@ In my Three frame narrative I did this through the perspective of a robotics stu
   <figcaption style="color: #b8c0e0; font-size: 0.85em; margin-top: 0.5rem; font-style: italic; text-align: center;">Three Frame Narrative</figcaption>
 </figure>
 <br>
+
+### X-Ray Views:
+Below is the X-Ray views of my paper in two parts. The first part outlines every topic that will be covered in the paper as well as whether that section will include code snippits. The second part is a control diagram of the code/math itself:
+
+<div class="carousel-container" style="max-width: 600px; margin: 2rem auto; position: relative;">
+  <div class="carousel-slides-xray">
+    <div class="carousel-slide-xray active" style="display: block;">
+      <img src="{{ site.baseurl }}/assets/images/steam/paper_outline.png" alt="Paper Outline" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
+      <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">Paper Outline</p>
+    </div>
+    <div class="carousel-slide-xray" style="display: none;">
+      <img src="{{ site.baseurl }}/assets/images/steam/code_control_diagram.jpeg" alt="Code Control Diagram" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
+      <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">Code Control Diagram</p>
+    </div>
+  </div>
+
+  <button class="carousel-btn-xray prev" onclick="changeSlideXray(-1)" style="position: absolute; left: 10px; top: 50%; transform: translateY(-50%); background: #c6a0f6; color: #24273a; border: none; padding: 10px 15px; border-radius: 6px; cursor: pointer; font-size: 18px; font-weight: bold;">❮</button>
+  <button class="carousel-btn-xray next" onclick="changeSlideXray(1)" style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); background: #c6a0f6; color: #24273a; border: none; padding: 10px 15px; border-radius: 6px; cursor: pointer; font-size: 18px; font-weight: bold;">❯</button>
+
+  <div class="carousel-dots-xray" style="text-align: center; margin-top: 1rem;">
+    <span class="dot-xray active" onclick="currentSlideXray(1)" style="height: 12px; width: 12px; margin: 0 5px; background-color: #c6a0f6; border-radius: 50%; display: inline-block; cursor: pointer;"></span>
+    <span class="dot-xray" onclick="currentSlideXray(2)" style="height: 12px; width: 12px; margin: 0 5px; background-color: #5b6078; border-radius: 50%; display: inline-block; cursor: pointer;"></span>
+  </div>
+</div>
+
+<script src="{{ site.baseurl }}/assets/js/carousel-xray.js"></script>
+
