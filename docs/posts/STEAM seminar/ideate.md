@@ -11,11 +11,13 @@ This part is the ideation phase in which I will start by coming up with a variet
 I generated my ideas by taking 20 minutes to write down any idea on Figjam that I could think of. My mindset wasn't to think of what was possible and instead I was just thinking of what could solve the problem.
 
 <br>
+<br>
 
 <figure style="float: right; margin: -1rem 0 1rem 1.5rem;">
   <img src="{{ site.baseurl }}/assets/images/steam/figjam.png" alt="FigJam Brainstorming" width="200" style="border-radius: 8px; border: 1px solid #363a4f;"/>
   <figcaption style="color: #b8c0e0; font-size: 0.85em; margin-top: 0.5rem; font-style: italic; text-align: center;">FigJam Brainstorming Session</figcaption>
 </figure>
+<br>
 <br>
 
 ### Narrowing the Focus:
@@ -28,10 +30,12 @@ My proposed solution is a research paper with code implementation going through 
 In my Three frame narrative I did this through the perspective of a robotics student because that was the persona I viewed the proposed solution through. In the before the student is struggling with an autonomous movement for their robot because it is being imprecise. They then proceed to look up ways to increase precision, but all they find are graduate level papers with jargon and advanced topics. They know other students were able to do it so it's not beyond their skill level there is just a high barrier to entry. The during is when they would use my paper, which would reduce the barrier by explaining everything in more detail but at a high school level, so the student is able to get the same amount of information but is able to understand more. The after is when they are able to implement this advanced topic and their robot becomes mroe precise. 
 
 <br>
+<br>
 <figure style="float: right; margin: -1rem 0 1rem 1.5rem;">
   <img src="{{ site.baseurl }}/assets/images/steam/three_frame.jpg" alt="3 Frame Narrative" width="200" style="border-radius: 8px; border: 1px solid #363a4f;"/>
   <figcaption style="color: #b8c0e0; font-size: 0.85em; margin-top: 0.5rem; font-style: italic; text-align: center;">Three Frame Narrative</figcaption>
 </figure>
+<br>
 <br>
 
 ### X-Ray Views:
