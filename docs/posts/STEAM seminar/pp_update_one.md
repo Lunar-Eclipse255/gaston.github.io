@@ -37,21 +37,17 @@ What I've been able to tackle in the past three weeks, was the full coding of th
 
 
 ### Experts & Mentors: 
-Discuss the individuals who have influenced or helped your work to date. List who has helped and why. Discuss how their advice, feedback, or resources change the direction of your project?
+I was trying to contact Davis these past weeks, we were having issues and we finally fixed them but he hasn't responded. So I think I will move forward with Ms. B and circle back to Davis if he becomes available. 
 
  
 
 ### Roadblocks & Resolutions: 
-Projects rarely go exactly as planned. Identify the "potholes" you've hit. What is currently slowing you down or causing concern? Propose at least two ideas for how you might resolve these issues. What’s your "Plan B"?
+Some issues, I've been having are withs cheduling my initial interview, and fully getting Monte Carlo Noise to work. I am going to solve the issue regarding my initial interview by switch my primary interview to Ms. B. The secondary issue is caused by the particle filter struggling to work around the middle goal, so I will try to remedy this by adding more line segments when raycasting and adding more variance to the odometry matrix. 
 
  
 
 ### Reflection: 
+I am feeling good about my projects and I feel like I am on track. I felt most productive when i was finally able to get partial MCL to work, in certain areas of the field. I also believe I have made adequate progress in the past three weeks. 
 How are you doing? Take a moment to check in with yourself. These prompts are here to help think critically about your progress and work habits. Your responses don't have to be long—just 2–3 honest sentences for each is fine. This section is meant to encourage you to think deeply about how you are working, not just what you are producing.
 
  
-
-    How are you feeling about your progress? Why? [Energized? Excited? Overwhelmed? Worried?]
-    Are your time-managment habits working? Is your current "way of working" sustainable for the rest of the school year? Are you using class time wisely to work on your project?
-    Identify one moment in the last three weeks when you felt most productive or "in the zone." What were you doing, and what was your environment like? How can you recreate this environment?
-    Do you believe you have made adequate progress [met all of the goals you have set, staying on track, making continuous improvement] these first few weeks.
