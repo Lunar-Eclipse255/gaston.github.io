@@ -48,6 +48,6 @@ Some issues, I've been having are withs cheduling my initial interview, and full
 
 ### Reflection: 
 I am feeling good about my projects and I feel like I am on track. I felt most productive when i was finally able to get partial MCL to work, in certain areas of the field. I also believe I have made adequate progress in the past three weeks. 
-How are you doing? Take a moment to check in with yourself. These prompts are here to help think critically about your progress and work habits. Your responses don't have to be long—just 2–3 honest sentences for each is fine. This section is meant to encourage you to think deeply about how you are working, not just what you are producing.
+
 
  
