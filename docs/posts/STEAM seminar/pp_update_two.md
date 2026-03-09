@@ -9,7 +9,6 @@ id: pp-2
  
 
 ### Progress Overview & Evidence of Adequate Progress:
-Provide a detailed summary of everything you’ve tackled in the last three weeks. What specific tasks have you checked off your list? List 3-5 specitic items you have finished
 Here is the list of things I have worked on
 * Introduction to paper 
 * Purpose of Paper Section
@@ -27,7 +26,7 @@ One recent thing that I've accomplished that I'm proud of is the section on the 
       <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">MCL Introduction</p>
     </div>
     <div class="carousel-slide-pp2" style="display: none;">
-      <img src="{{ site.baseurl }}/assets/images/steam/mcl_initial_distr.png" alt="MCL Initial Distribution" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
+      <img src="{{ site.baseurl }}/assets/images/steam/mcl_inital_distr.png" alt="MCL Initial Distribution" style="width: 100%; border-radius: 8px; border: 1px solid #363a4f;">
       <p class="carousel-caption" style="text-align: center; color: #b8c0e0; font-size: 0.9em; margin-top: 0.5rem; font-style: italic;">MCL Initial Distribution</p>
     </div>
     <div class="carousel-slide-pp2" style="display: none;">
@@ -51,17 +50,18 @@ One recent thing that I've accomplished that I'm proud of is the section on the 
 
 
 ### Resources and Reseach: 
-What new reources, interviews, or research have you used to support your continued learning? Did you read a new article or find a helpful tutorial? Have you spoken to anyone new? How has this new information changed or helped you refine your approach to the project?
+I haven't been really using any new resources at this moment, I've mainly been continuing to use the Doucent & Jouhansen paper as well as the math based paper I made for my Independent Study in Monte Carlo Localization.
+
 
  
 
-### Roadblocks & Resolutions: 
-Some issues, I've been having are withs cheduling my initial interview, and fully getting Monte Carlo Noise to work. I am going to solve the issue regarding my initial interview by switch my primary interview to Ms. B. The secondary issue is caused by the particle filter struggling to work around the middle goal, so I will try to remedy this by adding more line segments when raycasting and adding more variance to the odometry matrix. 
+### Prototype Status: 
+The protoype is going along quite, well I will most likely use the Intro Chapter, along with the initial and gaussian distribution chapters for my prototype. These will be done by Spring Break, I just need to finish up that 3rd chapter, and proofread.
 
  
+
+### Goal Setting & Roadblocks: 
+I am setting real goals that are achievale and leading me to progress. I don't really have any obstacles slowing me down at this moment. My goals for next is the finish the chapter, on state sampling and the motion model.
 
 ### Reflection: 
-I am feeling good about my projects and I feel like I am on track. I felt most productive when i was finally able to get partial MCL to work, in certain areas of the field. I also believe I have made adequate progress in the past three weeks. 
-
-
- 
+I am feeling very good about my progress, because I feel like I'm making meaningful progress very week on the paper. I've learned that when writing this paper, I can really zone out everything else around me. The largest skill gap I have at this moment, is consistently bringing information to a lower level while keeping the same amount of detail. I plan to bridge that gap by continuing to write the paper, and improving as I go. There is nothing I currently need from Dr. Baralt.
