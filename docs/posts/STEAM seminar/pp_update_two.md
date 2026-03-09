@@ -17,6 +17,7 @@ Here is the list of things I have worked on
 * Introduction to Particles Section
 * Uniform Initial Distribution Section
 * Motion Model Section
+
 What is the one specific thing you accomplished recently that you are most proud of?
 One recent thing that I've accomplished that I'm proud of is the section on the uniform distribution. I'm proud of it because its one of the first sections I've wrote where I feel like I've succintly been able to explain something in great detail at a lower level without losing value. Also compared to 3 weeks ago where I only had the code, and the math based version of the paper, I know have my introduction chapter, a fully explained chapter on the initial distribtuion,a dn I have started the chapter on state sampling. Here are some images of all this progress: 
 <div class="carousel-container" style="max-width: 600px; margin: 2rem auto; position: relative;">
